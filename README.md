@@ -1,4 +1,4 @@
 # course
-<h1>my course page.</h1>
-my name is swapan sasmit.
-It is public.
+<h1>This is my course page.</h1>
+<br>My name is swapan sasmit.
+<br>It is public.
