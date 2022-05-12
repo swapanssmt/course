@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 from scipy.integrate import odeint
 from mpl_toolkits.mplot3d import Axes3D
 
-rho1 = [-5,-1,0,1,5,13,15,20,24.734,50,170,300,500]
+#rho1 = [-5,-1,0,1,5,13,15,20,24.734,50,170,300,500]
+rho1 = [20,24.734]
 #sigma1=[-1,0,2,5,10,15,50,100]
 #sigma1=[300]
 for rho in rho1:
